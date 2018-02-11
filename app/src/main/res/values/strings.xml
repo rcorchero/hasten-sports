@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Hasten Sports</string>
+
+    <string name="action_try_again">Intentarlo otra vez</string>
+    <string name="action_check_again">Comprobar otra vez</string>
+
+    <string name="error_no_items_to_display">No hay elementos para mostrar</string>
+    <string name="error_generic_server_error">Hubo un error al contactar con el servidor, %1$s</string>
+
+</resources>
